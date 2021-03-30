@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritesh-056
 - 👀 I’m interested in Reading and Coding 
-- 🌱 I’m currently learning Android Development and Competetive Programming.
+- 🌱 I’m currently learning Android Development and Competitive Programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : -
                       You can go through email:  baralriteshrtz@gmail.com
