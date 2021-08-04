@@ -2,9 +2,16 @@
 - 👀 I’m interested in Reading and Coding. 
 - 🌱 I’m currently learning Mobile App Development.
 - 💞️ I’m looking to collaborate on ...
+- Technology
+-   1.JAVA
+-   2.DART
+-   3.HTML
+-   4.CSS
+-   5.JS
 - 📫 How to reach me : -
                       You can go through email:  baralriteshrtz@gmail.com
                       OR, Linkedin            :  https://www.linkedin.com/in/ritesh-baral-415851192/
+                      
 
 <!---
 Ritesh-056/Ritesh-056 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
