@@ -3,14 +3,14 @@
 - 🌱 I’m currently learning Mobile App Development.
 - 💞️ I’m looking to collaborate on ...
 - Tech Skill 
--   1.JAVA
--   2.DART
--   3.JS
--   4.HTML
--   5.CSS
--   6.Mobile App Development 
-       - Native         :- Android
-       - Cross Platform :- Flutter Framework 
+   1. JAVA
+   2. DART
+   3. JS
+   4. HTML
+   5. CSS
+   6. Mobile App Development 
+      - Native         :- Android
+      - Cross Platform :- Flutter Framework 
        
 - 📫 How to reach me : -
                       You can go through email:  baralriteshrtz@gmail.com
