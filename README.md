@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ritesh-056.
 - 👀 I’m interested in Reading and Coding. 
-- 🌱 I’m currently learning Mobile App Development.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Mobile App Developer.
 - Tech Skill 
    1. JAVA
    2. DART
