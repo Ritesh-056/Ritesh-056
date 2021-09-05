@@ -3,11 +3,10 @@
 - 🌱 Mobile App Developer.
 - Tech Skill 
    1. JAVA
-   2. DART
+   2. C/C++
    3. JS
-   4. HTML
-   5. CSS
-   6. Mobile App Development 
+   4. HTML/CSS
+   5. Mobile App Development 
       - Native         :- Android
       - Cross Platform :- Flutter Framework 
        
