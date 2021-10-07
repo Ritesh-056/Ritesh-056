@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ritesh-056.
+- 👋 Hi, I’m Ritesh Baral.
 - 👀 I’m interested in Reading and Coding. 
 - 🌱 Mobile App Developer.
 - Tech Skill 
