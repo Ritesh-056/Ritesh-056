@@ -7,31 +7,27 @@
 
 # Languages and Skills
 
-   #### * JAVA
-   #### * C/C++
-   #### * JS
-   #### * DART
-   #### * HTML/CSS
-   #### * Mobile App Development 
-        #### * Native         :- Android
-        #### * Cross Platform :- Flutter Framework 
+   * #####  JAVA
+   * #####  C/C++
+   * #####  JS
+   * #####  DART
+   * #####  HTML/CSS
+   * #####  Mobile App Development 
+        * ######  Native         :- Android
+        * ######  Cross Platform :- Flutter Framework 
         
     
    
 # Contact
 
-  #### * Email     : baralriteshrtz@gmail.com
-  #### * Linkedin  : https://www.linkedin.com/in/ritesh-baral-415851192/
-  #### * Twitter   : https://twitter.com/RiteshBaral4 
+  #####  Email     : baralriteshrtz@gmail.com
+  #####  Linkedin  : https://www.linkedin.com/in/ritesh-baral-415851192/
+  #####  Twitter   : https://twitter.com/RiteshBaral4 
                       
                       
 ### Sample of flutter Design 
+  ![videoscreen](https://user-images.githubusercontent.com/53189504/141793238-f07a4509-0487-48c4-a192-ebbd04619954.png)
 
-
-[![Design Demo](https://user-images.githubusercontent.com/53189504/141788414-13249d00-1dbe-4d01-8495-c58abcce45f4.png)]('https://user-images.githubusercontent.com/53189504/141777995-a935fac5-03c1-4a5c-8c11-f05f1b4db003.mp4')
-
-<!-- ![videoscreen](https://user-images.githubusercontent.com/53189504/141788414-13249d00-1dbe-4d01-8495-c58abcce45f4.png)
- -->
 
                      
                      
