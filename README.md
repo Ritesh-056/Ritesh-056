@@ -14,6 +14,13 @@
                       You can go through email:  baralriteshrtz@gmail.com
                       OR, Linkedin            :  https://www.linkedin.com/in/ritesh-baral-415851192/
                       
+                      
+###Sample of flutter Design 
+https://user-images.githubusercontent.com/53189504/141777995-a935fac5-03c1-4a5c-8c11-f05f1b4db003.mp4
+
+
+                      
+                      
 
 <!---
 Ritesh-056/Ritesh-056 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
