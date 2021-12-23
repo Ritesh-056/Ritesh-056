@@ -2,16 +2,12 @@
 
 
 * #### 👀 I’m interested in Reading and Coding. 
-* #### 🌱 I'm Looking for Mobile Application Internship ( Flutter / Native Android Development)
 
 
 # Languages and Skills
 
    * #####  JAVA
-   * #####  C/C++
-   * #####  JS
    * #####  DART
-   * #####  HTML/CSS
    * #####  Mobile App Development 
         * ######  Native         :- Android
         * ######  Cross Platform :- Flutter Framework 
