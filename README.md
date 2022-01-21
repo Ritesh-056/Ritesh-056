@@ -4,6 +4,11 @@
 * #### 👀 I’m interested in Reading and Coding. 
 
 
+# About 
+I hold a Bachelor in Computer Science and Information Technology ( Bsc.CSIT ) degree from Kathford International college of Engineering and Management.
+
+
+
 # Languages and Skills
 
    * #####  JAVA
