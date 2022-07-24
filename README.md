@@ -1,15 +1,15 @@
 #  Ritesh Baral
-* #### Interested in Reading and Coding. 
+Interested in Reading and Coding. 
 
 # About 
 Working as a Flutter Developer.
 
-# Languages and Skills
-   * #####  Mobile Application Development ( Native/Android | Flutter Framework)
+# Tech Stack
+Mobile Application Development ( Native/Android | Flutter Framework)
    
 # Contact
-  #####  Email : baralriteshrtz@gmail.com 
-  #####  Linkedin  : https://www.linkedin.com/in/ritesh-baral-415851192/
+  Email : baralriteshrtz@gmail.com 
+  Linkedin  : https://www.linkedin.com/in/ritesh-baral-415851192/
                                             
 # Sample of flutter Design 
   ![videoscreen](https://user-images.githubusercontent.com/53189504/141793238-f07a4509-0487-48c4-a192-ebbd04619954.png)
