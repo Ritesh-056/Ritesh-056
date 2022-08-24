@@ -2,7 +2,7 @@
 Interested in Reading and Coding. 
 
 # About 
-Working as a Flutter Developer.
+Flutter Application Developer | Native Android Application Developer.
 
 # Tech Stack
 Mobile Application Development ( Native/Android | Flutter Framework)
