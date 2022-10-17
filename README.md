@@ -1,7 +1,6 @@
 
-
+<image src="https://user-images.githubusercontent.com/53189504/196264084-50467764-7a50-49c1-93db-b1e58b57025d.png" height="50">
 #### Ritesh Baral
-![image](https://user-images.githubusercontent.com/53189504/196264084-50467764-7a50-49c1-93db-b1e58b57025d.png)
 
 
 **`Github Stats`**
