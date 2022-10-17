@@ -1,6 +1,6 @@
 
-<image src="https://user-images.githubusercontent.com/53189504/196264084-50467764-7a50-49c1-93db-b1e58b57025d.png" height="50">
- Ritesh Baral
+ Ritesh Baral <image src="https://user-images.githubusercontent.com/53189504/196264084-50467764-7a50-49c1-93db-b1e58b57025d.png" height="50">
+
 
 
 **`Github Stats`**
@@ -20,7 +20,9 @@ I'm a mobile application developer specially use flutter to develop mobile apps.
 **`Languages and Tools`**
 <br>
 <br>
-<img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+
+<img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/53189504/196264872-10acbc1f-2ec0-4d97-9895-9ebe9fbfa8fd.png">
+ 
 <img align="left" alt="dart" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
 <img align="left" alt="flutter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 <img align="left" alt="dart" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
