@@ -7,14 +7,14 @@
 <br>
 <br>
 ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh-056&theme=ayu-mirage&show_icons=true)
-
 <br>
 <br>
 
 
 **`Mobile Application Developer / Video Maker`**
 <br>
-I'm a mobile application developer specially use flutter to develop mobile apps. Love to design things and always love to feel much more about the logical part as well User Interface (UI). Developing application and learning daily is the part of life. Love to study others code and research to other contribution and works.
+<p style="font-size:20px">
+I'm a mobile application developer specially use flutter to develop mobile apps. Love to design things and always love to feel much more about the logical part as well User Interface (UI). Developing application and learning daily is the part of life. Love to study others code and research to other contribution and works.</p>
 <br>
 
 **`Languages and Tools`**
@@ -28,7 +28,6 @@ I'm a mobile application developer specially use flutter to develop mobile apps.
 <br>
 
 
-
 **`Most used`**
 <br>
 <br>
@@ -36,7 +35,6 @@ I'm a mobile application developer specially use flutter to develop mobile apps.
 <br>
 <br>
 <br>
-
 
 
 **`Week stats`**
