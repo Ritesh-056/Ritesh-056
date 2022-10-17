@@ -13,7 +13,7 @@
 
 **`Mobile Application Developer / Video Maker`**
 <br>
-<p style="font-size:20px">
+<p style="font-size:160%;font-weight:bold;">
 I'm a mobile application developer specially use flutter to develop mobile apps. Love to design things and always love to feel much more about the logical part as well User Interface (UI). Developing application and learning daily is the part of life. Love to study others code and research to other contribution and works.</p>
 <br>
 
@@ -26,21 +26,14 @@ I'm a mobile application developer specially use flutter to develop mobile apps.
 <img align="left" alt="dart" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
 <br>
 <br>
-
+<br>
+<br>
 
 **`Most used`**
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-056&layout=compact)](https://github.com/Ritesh-056/github-readme-stats)
 <br>
-<br>
-<br>
-
-
-**`Week stats`**
-<br>
-<br>
-[![Ritesh Week stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ritesh-056)](https://github.com/Ritesh-056/github-readme-stats)
 <br>
 <br>
 
