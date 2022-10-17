@@ -21,6 +21,7 @@ I'm a mobile application developer specially use flutter to develop mobile apps.
 
 
 **`Github Stats`**
+<br>
 ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh-056&theme=ayu-mirage&show_icons=true)
 
 <br>
@@ -31,6 +32,7 @@ I'm a mobile application developer specially use flutter to develop mobile apps.
 
 
 **`Most used`**
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-056&layout=compact)](https://github.com/Ritesh-056/github-readme-stats)
 <br>
 <br>
@@ -39,13 +41,14 @@ I'm a mobile application developer specially use flutter to develop mobile apps.
 
 
 **`Week stats`**
-
+<br>
 [![Ritesh Week stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ritesh-056)](https://github.com/Ritesh-056/github-readme-stats)
 <br>
 <br>
 <br>
 
 **`Flutter Sample`**
+<br>
 <img src="https://user-images.githubusercontent.com/53189504/141793238-f07a4509-0487-48c4-a192-ebbd04619954.png" height="400">
 
 
