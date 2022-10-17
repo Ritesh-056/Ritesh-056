@@ -20,7 +20,7 @@ https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-o
 
 ### Stats
 
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/apiusername=ritesh065&show_icons=true&theme=radical)
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/apiusername=Ritesh-056&show_icons=true&theme=radical)
 
                                             
 # Flutter Sample  
