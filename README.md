@@ -4,10 +4,15 @@
 
 **`Mobile Application Developer / Video Maker`**
 
+================================================
+
 I'm a mobile application developer specially use flutter to develop mobile apps. Love to design things and always love to feel much more about the logical part as well User Interface (UI). Developing application and learning daily is the part of life. Love to study others code and research to other contribution and works.
 
 
-### Languages and Tools
+
+**`Languages and Tools`**
+
+=========================
 
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 <img align="left" alt="dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
@@ -15,15 +20,23 @@ I'm a mobile application developer specially use flutter to develop mobile apps.
 <img align="left" alt="dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
 
 
+**`Github Stats`**
 
+=========================
 
-### Stats
 
 ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh-056&theme=ayu-mirage&show_icons=true)
 
+
+**`Most used`**
+
+=========================
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-056&layout=compact)](https://github.com/Ritesh-056/github-readme-stats)
+
+
                                             
-# Flutter Sample  
-<img src="https://user-images.githubusercontent.com/53189504/141793238-f07a4509-0487-48c4-a192-ebbd04619954.png" height="300" width="200">
+**`Flutter Sample`**
+<img src="https://user-images.githubusercontent.com/53189504/141793238-f07a4509-0487-48c4-a192-ebbd04619954.png" height="400" width="400">
 
 
       
