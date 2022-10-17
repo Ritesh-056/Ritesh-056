@@ -19,7 +19,7 @@ I'm a mobile application developer specially use flutter to develop mobile apps.
 
 ### Stats
 
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/apiusername=Ritesh-056&show_icons=true&theme=radical)
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/apiusername=Ritesh-056&show_icons=true&theme=apprentice)
 
                                             
 # Flutter Sample  
