@@ -61,7 +61,7 @@
 ## 💼 Professional Experience
 
 ### Mid-Level Flutter Developer at OCAYE LLC
-*Jan 2023 – Present*
+*Jan 2024 – Present*
 - Led overall project development.
 - Integrated Firebase database and tools.
 - Developed features like FCM notifications, video APIs, and chat.
@@ -74,7 +74,7 @@
 - Developed backend solutions using Python and Django.
 
 ### Freelance Flutter Developer at DIABLX LABS PRIVATE LIMITED
-*Jul 2023 – Jan 2024*
+*Jul 2023 – Nov 2023*
 - Developed socket-based chat applications.
 - Implemented GetX state management.
 - Created RESTful APIs for restaurant booking systems.
@@ -85,16 +85,23 @@
 - Handled dynamic forms, task management tools, and SQLite database.
 - Integrated MapBox and thermal printers.
 
-### Native Android Developer at NepDev Pvt. Ltd
-*Jun 2020 – Aug 2020*
-- Implemented user interfaces and handled RecyclerView and Adapter.
-- Worked with Firebase Authentication and Cloud Firestore Database.
+### Flutter Developer at Qunto
+*Jul 2022 – Dec 2022*
+- Fixed development issues.
+- Implemented Bloc state management.
+- Clean and Flutter Bloc Architecture.
 
 ### Flutter Developer at Aasha Tech Pvt. Ltd
 *Oct 2021 – Dec 2021*
 - Applied Bloc pattern for state management.
 - Conducted research on integration objectives and implemented user interfaces.
 - Managed API integration and third-party packages.
+
+### Native Android Developer at NepDev Pvt. Ltd
+*Jun 2020 – Aug 2020*
+- Implemented user interfaces and handled RecyclerView and Adapter.
+- Worked with Firebase Authentication and Cloud Firestore Database.
+  
 
 ## 📂 College Projects
 
