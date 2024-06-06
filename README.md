@@ -1,52 +1,105 @@
+# Hi there, I'm Ritesh Baral 👋
 
- ## ======== Ritesh Baral ======== <br><br>
+## 🚀 About Me
+I am a dedicated Mobile Application Developer with a passion for continuous learning and a strong focus on developing expertise in specific fields. I hold a Bachelor's degree in Computer Science and Information Technology from Tribhuvan University in Nepal. My commitment to deep learning and rapid mastery of new technologies has equipped me with a robust foundation in programming languages and technical skills.
 
+## 🛠️ Technologies & Tools
 
-**`Github Stats`**
-<br>
-<br>
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh-056&theme=ayu-mirage&show_icons=true)
-<br>
-<br>
+### Programming Languages & Frameworks
+- **Dart & Flutter** (State management with Bloc, Provider, GetX, Riverpod)
+- **Kotlin & Java** (Android Development)
+- **Python & Django** (Backend Development)
+- **C & C++**
+- **HTML & CSS**
+- **Solidity** (Blockchain Development)
 
+### Tools
+- **IDEs:** Android Studio, VS Code
+- **Databases:** Firebase, SQLite, Hive
+- **Version Control:** Git, GitLab
+- **Project Management:** Jira, ClickUp
+- **API Testing:** Postman, Swagger
+- **Operating Systems:** Linux
 
-**`Mobile Application Developer / Video Maker`**
-<br>
-<p style="font-size:160%;font-weight:bold;">
-I'm a mobile application developer specially use flutter to develop mobile apps. Love to design things and always love to feel much more about the logical part as well User Interface (UI). Developing application and learning daily is the part of life. Love to study others code and research to other contribution and works.</p>
-<br>
+## 💼 Professional Experience
 
-**`Languages and Tools`**
-<br>
-<br>
+### Mid-Level Flutter Developer at OCAYE LLC
+*Jan 2023 – Present*
+- Led overall project development.
+- Integrated Firebase database and tools.
+- Developed features like FCM notifications, video APIs, and chat.
 
-<img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/53189504/196264872-10acbc1f-2ec0-4d97-9895-9ebe9fbfa8fd.png">
- 
-<img align="left" alt="dart" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-<img align="left" alt="flutter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-<img align="left" alt="dart" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-<img align="left" alt="dart" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-<img align="left" alt="dart" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="left" alt="dart" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+### Full Stack Mobile Developer at Aasha Tech
+*Jan 2022 – Oct 2023*
+- Resolved development issues efficiently.
+- Utilized Bloc for state management.
+- Implemented Flutter Map components and researched integration objectives.
+- Developed backend solutions using Python and Django.
 
-<br>
-<br>
-<br>
-<br>
+### Freelance Flutter Developer at DIABLX LABS PRIVATE LIMITED
+*Jul 2023 – Jan 2024*
+- Developed socket-based chat applications.
+- Implemented GetX state management.
+- Created RESTful APIs for restaurant booking systems.
 
-**`Most used`**
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-056&layout=compact)](https://github.com/Ritesh-056/github-readme-stats)
-<br>
-<br>
-<br>
+### Freelance Flutter Developer at Upcode Nepal
+*May 2023 – Jul 2023*
+- Fixed development issues.
+- Handled dynamic forms, task management tools, and SQLite database.
+- Integrated MapBox and thermal printers.
 
+### Native Android Developer at NepDev Pvt. Ltd
+*Jun 2020 – Aug 2020*
+- Implemented user interfaces and handled RecyclerView and Adapter.
+- Worked with Firebase Authentication and Cloud Firestore Database.
 
-<!--*`Flutter Sample`**
-<br>
-<br>
-<img src="https://user-images.githubusercontent.com/53189504/141793238-f07a4509-0487-48c4-a192-ebbd04619954.png" height="400">
--->
+### Flutter Developer at Aasha Tech Pvt. Ltd
+*Oct 2021 – Dec 2021*
+- Applied Bloc pattern for state management.
+- Conducted research on integration objectives and implemented user interfaces.
+- Managed API integration and third-party packages.
 
-      
+## 📂 College Projects
+
+### Quiz Application
+*C/C++ (First Year)*
+- Developed a quiz application with 50-50 choice and countdown timer.
+
+### Online Company Registration
+*Flutter / Node.js (Third Year)*
+- Enabled online company registration and document submission.
+- Integrated online payment for registration fees.
+- [Project Link](https://github.com/Ritesh-056/ecom_registration)
+
+### Decentralized Voting System
+*Blockchain / React.js / Solidity (Final Year)*
+- Created a secure voting system with voter and candidate registration.
+- Admin approval for voters and candidates.
+- [Project Link](https://github.com/Ritesh-056/decentralize-voting-system-final)
+
+## 🌟 Skills
+- Adaptability
+- Decision Making
+- Communication
+- Team Collaboration
+- Leadership
+- Quality Work
+- Motivating and Inspiring Others
+
+## 📫 Contact Me
+- **Email:** riteshbaral31@gmail.com
+- **Phone:** +9779806045065 / +9779860527591
+- **Location:** Koteshwor, Kathmandu, Nepal
+- **GitHub:** [Ritesh-056](https://github.com/Ritesh-056)
+
+## 📈 GitHub Stats
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh-056&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-056&layout=compact&theme=radical)
+
+## 🔗 Links
+- [LinkedIn](https://www.linkedin.com/in/ritesh-baral-123456789)
+- [Portfolio](https://yourportfolio.com)
+
+Thank you for visiting my profile! Feel free to reach out for collaboration or any inquiries.
