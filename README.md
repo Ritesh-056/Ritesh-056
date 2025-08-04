@@ -18,8 +18,8 @@ Mobile Application Developer with 3+ years of experience specializing in Flutter
 ## 💼 Professional Experience
 
 ### Full Time Roles
-- **Flutter Developer** | *Iconsoft Technologies Pvt. Ltd, Nepal, Contract Based (Remote)*  
-  `January 2024 - April 2025`
+- **Full Stack Mobile Developer** | *Adventtra Dotcom Pvt. Ltd, Nepal, Full Time (Remote)*  
+  `January 2025 - August 2025`
   
 - **Mid Level Flutter Developer** | *Ocaye LLC, UK (Remote)*  
   `January 2024 - January 2025`
