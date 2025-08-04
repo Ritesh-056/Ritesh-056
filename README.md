@@ -1,7 +1,7 @@
 # Hi there, I'm Ritesh Baral 👋 
 
 ## 🚀 About Me
-Mobile Application Developer with 3+ years of experience specializing in Flutter and Native Android development. Passionate about creating scalable mobile solutions and mentoring developers.
+Mobile Application Developer with 3.5+ years of experience specializing in Flutter and Native Android development. Passionate about creating scalable mobile solutions and mentoring developers.
 
 - 🔭 Currently working on scalable Flutter applications with focus on Clean Architecture
 - 🌱 Expertise in Firebase Services, State Management, and Backend Integration
@@ -18,13 +18,13 @@ Mobile Application Developer with 3+ years of experience specializing in Flutter
 ## 💼 Professional Experience
 
 ### Full Time Roles
-- **Full Stack Mobile Developer** | *Adventtra Dotcom Pvt. Ltd, Nepal, Full Time (Remote)*  
-  `January 2025 - August 2025`
+- **Full Stack Mobile Development** | *Adventtra Dotcom Pvt. Ltd, Nepal, Full Time (Remote)*  
+  `December 2024 - August 2025`
   
 - **Mid Level Flutter Developer** | *Ocaye LLC, UK (Remote)*  
-  `January 2024 - January 2025`
+  `January 2024 - December 2024`
 
-- **Full Stack Mobile Developer** | *Aasha Tech Pvt. Ltd, Kathmandu, Nepal (Hybrid)*  
+- **Full Stack Mobile Development** | *Aasha Tech Pvt. Ltd, Kathmandu, Nepal (Hybrid)*  
   `January 2022 – October 2023`
 
 ### Freelance Roles
