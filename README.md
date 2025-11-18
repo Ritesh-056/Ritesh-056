@@ -21,7 +21,7 @@ Mobile Application Developer with 3.5+ years of experience specializing in Flutt
 
 ### Full Time Roles
 - **Full Stack Mobile Development** | *Adventtra Dotcom Pvt. Ltd, Nepal, Full Time (Remote)*  
-  `December 2024 - August 2025`
+  `December 2024 - October 2025`
   
 - **Mid Level Flutter Developer** | *Ocaye LLC, UK (Remote)*  
   `January 2024 - December 2024`
