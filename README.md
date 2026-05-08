@@ -20,23 +20,27 @@ Mobile Application Developer with 3.5+ years of experience specializing in Flutt
 ## 💼 Professional Experience
 
 ### Full Time Roles
-- **Full Stack Mobile Development** | *Adventtra Dotcom Pvt. Ltd, Nepal, Full Time (Remote)*  
+
+- **Frontend Developer (Flutter & Next.js), Full Time** | *ExploreDen · Madeley, West Australia - Remote*  
+  `November 2025 – Present`
+  
+- **Full Stack Mobile Development** | *Adventtra Dotcom Pvt. Ltd · Nepal, Full Time (Remote)*  
   `December 2024 - October 2025`
   
 - **Mid Level Flutter Developer** | *Ocaye LLC, UK (Remote)*  
   `January 2024 - December 2024`
 
-- **Full Stack Mobile Development** | *Aasha Tech Pvt. Ltd, Kathmandu, Nepal (Hybrid)*  
+- **Full Stack Mobile Development** | *Aasha Tech Pvt. Ltd · Kathmandu, Nepal (Hybrid)*  
   `January 2022 – October 2023`
 
 ### Freelance Roles
-- **Flutter Developer** | *DIABLX LABS PRIVATE LIMITED, New Delhi, India (Remote)*  
+- **Flutter Developer** | *DIABLX LABS PRIVATE LIMITED · New Delhi, India (Remote)*  
   `July 2023 – January 2024`
 
-- **Flutter Developer** | *Upcode Nepal Pvt. Ltd, Kathmandu, Nepal (Remote)*  
+- **Flutter Developer** | *Upcode Nepal Pvt. Ltd · Kathmandu, Nepal (Remote)*  
   `May 2023 – July 2023`
 
-- **Flutter Developer** | *Qunto, New Delhi, India (Remote)*  
+- **Flutter Developer** | *Qunto · New Delhi, India (Remote)*  
   `August 2022 – December 2022`
 
 ## 🛠️ Tech Stack
