@@ -1,7 +1,7 @@
 # Hi there, I'm Ritesh Baral 👋 
 
 ## 🚀 About Me
-Mobile Application Developer with 3.5+ years of experience specializing in Flutter, Native Android, and Backend development with Django. Passionate about building scalable mobile-first solutions and mentoring fellow developers.
+Mobile Application Developer with 4 years of experience specializing in Flutter, Native Android, and Backend development with Django. Passionate about building scalable mobile-first solutions and mentoring fellow developers.
 
 - 🔭 Currently developing scalable Flutter applications with a focus on Clean Architecture
 - 🌱 Proficient in Firebase Services, State Management (e.g., GetX, Bloc), and Backend Integration
