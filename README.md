@@ -1,7 +1,7 @@
 # Hi there, I'm Ritesh Baral 👋 
 
 ## 🚀 About Me
-Mobile Application Developer with 4 years of experience specializing in Flutter, Native Android, and Backend development with Django. Passionate about building scalable mobile-first solutions and mentoring fellow developers.
+Mobile Application Developer with 4 years of experience specializing in Flutter, Native Android, Front-end (Next.js) and Backend development with Django. Passionate about building scalable mobile-first solutions and mentoring fellow developers.
 
 - 🔭 Currently developing scalable Flutter applications with a focus on Clean Architecture
 - 🌱 Proficient in Firebase Services, State Management (e.g., GetX, Bloc), and Backend Integration
@@ -65,19 +65,6 @@ Mobile Application Developer with 4 years of experience specializing in Flutter,
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-## 🎯 Featured Projects
-
-### Decentralized Voting System
-*Blockchain / React.js / Solidity (Final Year)*
-- Secure voting system with blockchain technology
-- Smart contract implementation for voting integrity
-- [View Project](https://github.com/Ritesh-056/decentralize-voting-system-final)
-
-### Online Company Registration
-*Flutter / Node.js*
-- Digital company registration platform
-- Integrated payment gateway and document management
-- [View Project](https://github.com/Ritesh-056/ecom_registration)
 
 ## 🎓 Mentorship & Community
 - Led Flutter workshops for 50+ students at Kathford IT Club
