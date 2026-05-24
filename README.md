@@ -42,7 +42,7 @@ Flutter Developer with **4+ years of experience** architecting and shipping cros
 *November 2025 – Present*
 - Architecting high-performance cross-platform mobile and web interfaces using Flutter and Next.js,
   focusing on pixel-per-fect UI and seamless user journeys.
-• Redesigning complete project & optimizing frontend performance for web platforms and mobile app.
+- Redesigning complete project & optimizing frontend performance for web platforms and mobile app.
 
 ### **Full Stack Mobile Developer (Flutter/Django)** | Adventtra Dotcom Pvt. Ltd · Kathmandu, Nepal — Remote
 *February 2025 – October 2025*
