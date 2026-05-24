@@ -40,30 +40,34 @@ Flutter Developer with **4+ years of experience** architecting and shipping cros
 
 ### **Frontend Developer (Flutter & Next.js)** | ExploreDen · Madeley, West Australia — Remote
 *November 2025 – Present*
-- Architecting high-performance cross-platform mobile and web interfaces using Flutter and Next.js
-- Focusing on pixel-perfect UI and seamless user journeys
-- Redesigning complete projects & optimizing frontend performance for web platforms and mobile apps
+- Architecting high-performance cross-platform mobile and web interfaces using Flutter and Next.js,
+  focusing on pixel-per-fect UI and seamless user journeys.
+• Redesigning complete project & optimizing frontend performance for web platforms and mobile app.
 
 ### **Full Stack Mobile Developer (Flutter/Django)** | Adventtra Dotcom Pvt. Ltd · Kathmandu, Nepal — Remote
 *February 2025 – October 2025*
-- Architecting high-performance cross-platform mobile and web interfaces using Flutter and Next.js
-- Redesigning complete projects & optimizing frontend performance for web platforms and mobile apps
+- Modernized legacy Flutter and Django codebases through comprehensive refactoring, eliminating
+  redundancies and optimizing performance with isolates, compute functions, and efficient UI rendering
+  resulting in 30% reduced maintenance time and 25% faster load times for high-traffic features.
+- Designed and implemented secure, scalable RESTful APIs for authentication and product management
+  using Django, integrated with AWS for robust cloud storage and backend infrastructure.
 
 ### **Mid Level Flutter Developer** | Ocaye LLC · United Kingdom — Remote
 *January 2024 – December 2024*
-- Led development of location-aware Flutter applications using Flutter Maps, secure geolocation, Bloc, and Clean Architecture
-- Optimized offline data storage with Hive and Shared Preferences for reliable performance in low-connectivity areas
-- Designed and developed scalable REST APIs using Django for production mobile app support
-- Mentored and guided junior developers, enhancing code quality standards and fostering strong team collaboration
-
-### **Full Stack Mobile Developer (Flutter/Django)** | Aasha Tech Pvt. Ltd · Kathmandu, Nepal — Hybrid
-*January 2022 – October 2023*
 - **Modernized legacy codebases** through comprehensive refactoring with isolates & compute functions
   - 📊 **30% reduced maintenance time** | ⚡ **25% faster load times** for high-traffic features
 - Designed and implemented **secure, scalable RESTful APIs** for authentication and product management using Django
 - Integrated AWS (S3, EC2) for robust cloud storage and backend infrastructure
 - Built and scaled high-performance Flutter apps serving **5,000+ users** with real-time chat, media sharing, and push notifications (Firestore, Auth, Storage, FCM)
-- **Led technical migration of 32+ Firebase projects** and production apps (Gym, Shorts, Calendar, Keyboard) with Clean Architecture + GetX
+
+
+### **Full Stack Mobile Developer (Flutter/Django)** | Aasha Tech Pvt. Ltd · Kathmandu, Nepal — Hybrid
+*January 2022 – October 2023*
+- Led technical migration of 32+ Firebase projects** and production apps (Gym, Shorts, Calendar, Keyboard) with Clean Architecture + GetX
+- Led development of location-aware Flutter applications using Flutter Maps, secure geolocation, Bloc, and Clean Architecture
+- Optimized offline data storage with Hive and Shared Preferences for reliable performance in low-connectivity areas
+- Designed and developed scalable REST APIs using Django for production mobile app support
+- Mentored and guided junior developers, enhancing code quality standards and fostering strong team collaboration
 
 ### **Freelance Experience** | Remote
 - **DIABLX Labs, Upcode Nepal, Qunto, KaamMela** (August 2022 – October 2023)
