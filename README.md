@@ -1,81 +1,187 @@
 # Hi there, I'm Ritesh Baral 👋 
 
-## 🚀 About Me
-Mobile Application Developer with 4 years of experience specializing in Flutter, Native Android, Front-end (Next.js) and Backend development with Django. Passionate about building scalable mobile-first solutions and mentoring fellow developers.
+**Flutter | Android Developer | Full Stack Mobile Architect**
 
-- 🔭 Currently developing scalable Flutter applications with a focus on Clean Architecture
-- 🌱 Proficient in Firebase Services, State Management (e.g., GetX, Bloc), and Backend Integration
-- 🛠 Hands-on experience with Django REST Framework to build secure, efficient APIs for mobile clients
-- 🧠 Skilled in designing backend architecture, managing databases, and deploying services to AWS & Heroku
-- 👯 Open to collaborations on Flutter, Django, or full-stack mobile projects
-- 💡 Actively share knowledge through mentoring, workshops, and tech communities
-- 🎓 Graduate in Computer Science and Information Technology from Tribhuvan University
+📍 Kathmandu, Nepal | 🌍 Open to Remote/International Roles  
+📧 [riteshbaral31@gmail.com](mailto:riteshbaral31@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/riteshbaral/) | 💻 [GitHub](https://github.com/Ritesh-056)
+
+---
+
+## 🚀 About Me
+
+Flutter Developer with **4+ years of experience** architecting and shipping cross-platform mobile applications used by thousands of users across the UK, Nepal, and international markets. 
+
+**Deep expertise in:**
+- ✨ Clean Architecture, Bloc/GetX/Riverpod/Provider state management
+- 🔥 Firebase ecosystem (Authentication, Firestore, Storage, FCM, Analytics)
+- 🐍 Django backend development & AWS infrastructure
+- 📱 High-performance Flutter apps with 5,000+ users and real-time features
+- 👥 Team leadership & technical mentorship
+
+**Key Achievements:**
+- 🎯 **40% crash rate reduction** through systematic optimization
+- ⚡ **25% performance improvement** in load times
+- 🛡️ **35% release quality boost** via enhanced test coverage
+- 🔄 **Led migration of 32+ Firebase projects** with zero downtime
+- 👨‍💼 **Managed cross-platform teams** (iOS & Android)
+
+---
 
 ## 📈 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ritesh-056&show_icons=true&theme=radical&count_private=true" alt="Ritesh's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-056&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
 </div>
 
+---
+
 ## 💼 Professional Experience
 
-### Full Time Roles
+### **Frontend Developer (Flutter & Next.js)** | ExploreDen · Madeley, West Australia — Remote
+*November 2025 – Present*
+- Architecting high-performance cross-platform mobile and web interfaces using Flutter and Next.js
+- Focusing on pixel-perfect UI and seamless user journeys
+- Redesigning complete projects & optimizing frontend performance for web platforms and mobile apps
 
-- **Frontend Developer (Flutter & Next.js), Full Time** | *ExploreDen · Madeley, West Australia - Remote*  
-  `November 2025 – Present`
-  
-- **Full Stack Mobile Development** | *Adventtra Dotcom Pvt. Ltd · Nepal, Full Time (Remote)*  
-  `December 2024 - October 2025`
-  
-- **Mid Level Flutter Developer** | *Ocaye LLC, UK (Remote)*  
-  `January 2024 - December 2024`
+### **Full Stack Mobile Developer (Flutter/Django)** | Adventtra Dotcom Pvt. Ltd · Kathmandu, Nepal — Remote
+*February 2025 – October 2025*
+- Architecting high-performance cross-platform mobile and web interfaces using Flutter and Next.js
+- Redesigning complete projects & optimizing frontend performance for web platforms and mobile apps
 
-- **Full Stack Mobile Development** | *Aasha Tech Pvt. Ltd · Kathmandu, Nepal (Hybrid)*  
-  `January 2022 – October 2023`
+### **Mid Level Flutter Developer** | Ocaye LLC · United Kingdom — Remote
+*January 2024 – December 2024*
+- Led development of location-aware Flutter applications using Flutter Maps, secure geolocation, Bloc, and Clean Architecture
+- Optimized offline data storage with Hive and Shared Preferences for reliable performance in low-connectivity areas
+- Designed and developed scalable REST APIs using Django for production mobile app support
+- Mentored and guided junior developers, enhancing code quality standards and fostering strong team collaboration
 
-### Freelance Roles
-- **Flutter Developer** | *DIABLX LABS PRIVATE LIMITED · New Delhi, India (Remote)*  
-  `July 2023 – January 2024`
+### **Full Stack Mobile Developer (Flutter/Django)** | Aasha Tech Pvt. Ltd · Kathmandu, Nepal — Hybrid
+*January 2022 – October 2023*
+- **Modernized legacy codebases** through comprehensive refactoring with isolates & compute functions
+  - 📊 **30% reduced maintenance time** | ⚡ **25% faster load times** for high-traffic features
+- Designed and implemented **secure, scalable RESTful APIs** for authentication and product management using Django
+- Integrated AWS (S3, EC2) for robust cloud storage and backend infrastructure
+- Built and scaled high-performance Flutter apps serving **5,000+ users** with real-time chat, media sharing, and push notifications (Firestore, Auth, Storage, FCM)
+- **Led technical migration of 32+ Firebase projects** and production apps (Gym, Shorts, Calendar, Keyboard) with Clean Architecture + GetX
 
-- **Flutter Developer** | *Upcode Nepal Pvt. Ltd · Kathmandu, Nepal (Remote)*  
-  `May 2023 – July 2023`
+### **Freelance Experience** | Remote
+- **DIABLX Labs, Upcode Nepal, Qunto, KaamMela** (August 2022 – October 2023)
+  - Delivered high-quality, seamless real-time applications including socket-based chat platforms and multi-user booking systems
+  - **99% client satisfaction** through superior UX and on-time delivery
+  - Integrated advanced features: Dynamic Forms, MapBox, thermal printers, QR scanning, SQLite, token management systems
+  - Implemented Clean Architecture with Bloc for payment & auth flows
+  - **25% increase in user engagement** with smooth animations & near-zero downtime
 
-- **Flutter Developer** | *Qunto · New Delhi, India (Remote)*  
-  `August 2022 – December 2022`
+---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### **Core Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-Kotlin/Java-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-Basics-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Backend & Database
+**Skills:** Material Design, Custom Widgets, Mobile UI/UX, Cross-Platform Development
+
+### **State Management & Architecture**
+![Bloc](https://img.shields.io/badge/Bloc-Expert-27AE60?style=for-the-badge)
+![GetX](https://img.shields.io/badge/GetX-Advanced-FF6B00?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-Advanced-0154BA?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-Advanced-27AE60?style=for-the-badge)
+
+**Architecture Patterns:** Clean Architecture, MVVM, MVI, System Design, Solution Architecture, Scalable Architecture
+
+### **Integrations & APIs**
+- **Firebase:** Authentication, Firestore, Analytics, FCM, Realtime Database
+- **Cloud Services:** Supabase, AWS (S3, EC2), Google Cloud
+- **Maps & Location:** MapBox, Google Maps API, Geolocation Services
+- **Features:** Camera, Push Notifications, WebSockets, Retrofit, Google AdMob, Fingerprint API (HikVision), Thermal Printers, QR Scanning
+
+### **Backend & Cloud**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FF9900?style=for-the-badge&logo=hive&logoColor=white)
 
-### Tools & DevOps
+**Skills:** RESTful APIs, Database Management, Backend Architecture
+
+### **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=for-the-badge&logo=github-actions&logoColor=white)
+![Codemagic](https://img.shields.io/badge/Codemagic-2A9BB0?style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+**Skills:** Git (GitHub/GitLab/Bitbucket), CI/CD Pipelines, Automated Testing (Unit, Widget, Integration), Fastlane, Docker (Intermediate), Agile/Scrum (Jira, Trello, ClickUp), Swagger
 
-## 🎓 Mentorship & Community
-- Led Flutter workshops for 50+ students at Kathford IT Club
-- Mentored 35+ participants in "Boost Your Career With Flutter" program
-- Guided teams in "KathCode- Code for Sustainability" hackathon
+### **Performance & Security**
+- Performance Profiling & Memory Management
+- Network Optimization & Crashlytics/Sentry
+- Mobile Security Best Practices
+- OAuth2, JWT Authentication
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-baral-415851192/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshbaral31@gmail.com)
+### **AI Tools**
+Accelerated development speed and code quality using:
+- **Cursor** (Claude Opus & Composer)
+- **Windsurf**
+- **Google Antigravity**
+- **Claude, Grok, Gemini**
+- Heavy use of agentic workflows
 
 ---
+
+## 🎓 Education
+
+**Bachelor's in Computer Science and Information Technology**  
+Kathford International College of Engineering & Management (Tribhuvan University) · Kathmandu, Nepal  
+*2018 – 2022*
+
+---
+
+## 👥 Mentorship & Leadership
+
+### Teaching & Community Impact
+
+🎯 **Introduction To Flutter | 2024**
+- Guided **50+ students** in Flutter/Dart fundamentals and CRUD app building, sharpening their real-world skills
+
+🎯 **KathCode - Code for Sustainability | 2024**
+- Led **9 teams** in KathCode hackathon, mentoring on product ideation, development, and sustainable solutions for smooth execution
+
+🎯 **Boost Your Career With Flutter | 2024**
+- Delivered sessions for **35-40 participants** on advanced Flutter concepts, boosting confidence and project implementation
+
+### Impact
+- Fostered strong team collaboration and code quality standards
+- Guided junior developers through complex architectural decisions
+- Championed knowledge sharing and community growth in mobile development
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riteshbaral/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshbaral31@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ritesh-056)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritesh_baral)
+
+---
+
+## 🎯 What I'm Looking For
+
+- Mid to Senior Flutter/Mobile Developer roles with complex scalability demands
+- Leadership opportunities in cross-functional mobile teams
+- Full-stack mobile projects requiring both frontend and backend expertise
+- Open to remote and international opportunities
+
+---
+
 <div align="center">
-  <i>⭐️ If you like my projects, give them a star!</i>
+  <i>⭐️ If you like my projects, give them a star! Let's collaborate and build amazing things together.</i>
+  
+  **Transforming ideas into scalable mobile solutions** 🚀
 </div>
