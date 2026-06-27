@@ -138,9 +138,11 @@ Accelerated development speed and code quality using:
 
 ---
 
-## 💼 Professional Work Samples
+## 💼 Work Samples
 
-### 🌟 **HabitPills** - Habit Tracking & Wellness Platform
+### Professional
+
+#### 🌟 **HabitPills** - Habit Tracking & Wellness Platform
 **[View Live](https://habitpills.com/)**
 
 *Client Project | Full-Stack Mobile & Web Development*
@@ -156,7 +158,7 @@ Accelerated development speed and code quality using:
 
 ---
 
-### 🛍️ **KaamMela** - Job & Service Marketplace Platform
+#### 🛍️ **KaamMela** - Job & Service Marketplace Platform
 **[View Live](https://kammela.com/)**
 
 *Professional Work | Multi-Platform Mobile ( Android | IOS )*
@@ -170,6 +172,13 @@ Accelerated development speed and code quality using:
 - Job posting, routing flow and profile edit feature added.
 
 **Technologies:** Flutter • Dart • Django • Python • PostgreSQL • Google Maps API • Firebase • WebSockets • Payment Integration
+
+---
+
+### Personal Portfolio
+
+- [Music Player](https://acropi.com/apps/music-player) — My music player app (linked to your hosted project)
+- [Movie Explorer API](https://github.com/Ritesh-056/movie-explorer-api) — Movies API project (linked to your repository)
 
 ---
 
