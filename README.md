@@ -177,16 +177,23 @@ Accelerated development speed and code quality using:
 
 ### Personal Portfolio
 
-- [Music Player](https://acropi.com/apps/music-player) — My music player app
-- Tech Stack: JAVA (Android)
-- More details: https://github.com/Ritesh-056/music_player
-  
-- [Movies](https://github.com/Ritesh-056/movie-explorer-api) — Movies API project
-- Tech Stack: Flutter (Android | IOS)
+Below are selected personal projects with links, tech stacks, and a short description so each project is clearly separate and easy to scan.
 
-- [Ecom Registration](https://github.com/Ritesh-056/ecom_registration) — Online Company Registration
-- Tech Stack: Flutter (Android | IOS)
+- **Music Player** — Android music player app
+  - Live: https://acropi.com/apps/music-player
+  - Source: https://github.com/Ritesh-056/music_player
+  - Tech: Java (Android)
+  - Highlights: Lightweight offline playback, playlist management, material UI and responsive controls.
 
+- **Movie Explorer** — Movie browsing app (search & details)
+  - Source & details: https://github.com/Ritesh-056/movie-explorer-api
+  - Tech: Flutter (Android | iOS)
+  - Highlights: Search movies, view details and posters, save favorites locally. Check the repo README for setup and API details.
+
+- **Ecom Registration** — Online Company Registration app
+  - Source: https://github.com/Ritesh-056/ecom_registration
+  - Tech: Flutter (Android | iOS)
+  - Highlights: Multi-step registration forms, client-side validation, and a clean mobile-first UI. See the repository for demos and installation instructions.
 
 ---
 
