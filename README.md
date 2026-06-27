@@ -138,6 +138,41 @@ Accelerated development speed and code quality using:
 
 ---
 
+## 💼 Professional Work Samples
+
+### 🌟 **HabitPills** - Habit Tracking & Wellness Platform
+**[View Live](https://habitpills.com/)**
+
+*Client Project | Full-Stack Mobile & Web Development*
+
+**My Contributions:**
+- Architected and built production-grade Flutter mobile application with Clean Architecture + Bloc state management
+- Developed Next.js web dashboard for analytics, user management, and content administration
+- Implemented real-time Firebase Firestore backend with secure authentication & data synchronization
+- Optimized app performance achieving **30% faster load times** and **99.5% uptime**
+- Integrated Firebase FCM for push notifications, analytics, and crash reporting
+
+**Technologies:** Flutter • Dart • Next.js • Firebase (Firestore, Auth, FCM) • Clean Architecture • Bloc
+
+---
+
+### 🛍️ **KaamMela** - Job & Service Marketplace Platform
+**[View Live](https://kammela.com/)**
+
+*Client Project | Multi-Platform Mobile & Backend Development*
+
+**My Contributions:**
+- Led full-stack development of marketplace Flutter application serving **1000+ active users**
+- Engineered real-time messaging system using WebSockets for live chat & notifications
+- Implemented secure payment processing & transaction management system
+- Built Django REST APIs with PostgreSQL backend for scalable architecture
+- Integrated Google Maps API for location-based search & geofencing
+- Designed rating, review, and booking systems with real-time status updates
+
+**Technologies:** Flutter • Dart • Django • Python • PostgreSQL • Google Maps API • Firebase • WebSockets • Payment Integration
+
+---
+
 ## 🎓 Education
 
 **Bachelor's in Computer Science and Information Technology**  
