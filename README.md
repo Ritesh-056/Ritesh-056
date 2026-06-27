@@ -177,8 +177,16 @@ Accelerated development speed and code quality using:
 
 ### Personal Portfolio
 
-- [Music Player](https://acropi.com/apps/music-player) — My music player app (linked to your hosted project)
-- [Movie Explorer API](https://github.com/Ritesh-056/movie-explorer-api) — Movies API project (linked to your repository)
+- [Music Player](https://acropi.com/apps/music-player) — My music player app
+- Tech Stack: JAVA (Android)
+- More details: https://github.com/Ritesh-056/music_player
+  
+- [Movies](https://github.com/Ritesh-056/movie-explorer-api) — Movies API project
+- Tech Stack: Flutter (Android | IOS)
+
+- [Ecom Registration](https://github.com/Ritesh-056/ecom_registration) — Online Company Registration
+- Tech Stack: Flutter (Android | IOS)
+
 
 ---
 
