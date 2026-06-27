@@ -41,8 +41,9 @@ Flutter Developer with **4+ years of experience** architecting and shipping cros
 ### **Frontend Developer (Flutter & Next.js)** | ExploreDen · Madeley, West Australia — Remote
 *November 2025 – Present*
 - Architecting high-performance cross-platform mobile and web interfaces using Flutter and Next.js,
-  focusing on pixel-per-fect UI and seamless user journeys.
+  focusing on pixel-perfect UI and seamless user journeys.
 - Redesigning complete project & optimizing frontend performance for web platforms and mobile app.
+- **Project:** [https://dev.exploreden.com.au/](https://dev.exploreden.com.au/)
 
 ### **Full Stack Mobile Developer (Flutter/Django)** | Adventtra Dotcom Pvt. Ltd · Kathmandu, Nepal — Remote
 *February 2025 – October 2025*
