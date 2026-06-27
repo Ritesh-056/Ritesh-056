@@ -159,15 +159,15 @@ Accelerated development speed and code quality using:
 ### 🛍️ **KaamMela** - Job & Service Marketplace Platform
 **[View Live](https://kammela.com/)**
 
-*Client Project | Multi-Platform Mobile & Backend Development*
+*Professional Work | Multi-Platform Mobile ( Android | IOS )*
 
 **My Contributions:**
-- Led full-stack development of marketplace Flutter application serving **1000+ active users**
-- Engineered real-time messaging system using WebSockets for live chat & notifications
+- Marketplace Flutter application serving **1000+ active users**
 - Implemented secure payment processing & transaction management system
-- Built Django REST APIs with PostgreSQL backend for scalable architecture
 - Integrated Google Maps API for location-based search & geofencing
 - Designed rating, review, and booking systems with real-time status updates
+- Search jobs lists, professional list and registrations feature implemented.
+- Job posting, routing flow and profile edit feature added.
 
 **Technologies:** Flutter • Dart • Django • Python • PostgreSQL • Google Maps API • Firebase • WebSockets • Payment Integration
 
